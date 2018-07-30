@@ -2,7 +2,8 @@
 
 	a:link 
 	{ 
-	text-decoration:none; 
+	text-decoration:none;
+	/*background-image: none; */
 	}
 
 	p{
